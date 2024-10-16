@@ -11,5 +11,5 @@ Our goal is to offer innovative and original games that take players into fantas
 [The complete list of links here](https://apgames.ch/links)
 
 ## This organization on GitHub
-The repositories stored in this organization are the open source part of our projects. 
+The repositories stored in this organization are the open source part of our projects. Most are packages / plugins for the Unity game engine. 
 They are essentially mirrors of the repositories on our internal git server, but all modifications and pull requests are of course accepted!
